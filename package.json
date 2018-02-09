@@ -1,0 +1,23 @@
+{
+  "name": "hello-npm-eiei",
+  "version": "1.0.0",
+  "description": "test npm install",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhaieiei/Hello-npm-eiei.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhaieiei/Hello-npm-eiei/issues"
+  },
+  "homepage": "https://github.com/Mhaieiei/Hello-npm-eiei#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
