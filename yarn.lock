@@ -2,10 +2,11 @@
 # yarn lockfile v1
 
 
-hello-npm-eiei@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/hello-npm-eiei/-/hello-npm-eiei-1.0.0.tgz#50bbe65d5e3d8053d80f870d5a43c1e2f6f61da8"
+hello-npm-eiei@^1.0.0, hello-npm-eiei@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/hello-npm-eiei/-/hello-npm-eiei-1.0.1.tgz#8e7b8df328d7bb907771521e4f5c3ba3a66639a7"
   dependencies:
+    hello-npm-eiei "^1.0.0"
     moment "^2.20.1"
 
 moment@^2.20.1:

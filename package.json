@@ -1,6 +1,6 @@
 {
   "name": "hello-npm-eiei",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test npm install",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Mhaieiei/Hello-npm-eiei#readme",
   "dependencies": {
-    "hello-npm-eiei": "^1.0.0",
+    "hello-npm-eiei": "^1.0.1",
     "moment": "^2.20.1"
   }
 }
